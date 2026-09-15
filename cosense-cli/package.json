@@ -1,0 +1,43 @@
+{
+  "name": "@helpfeel/cosense-cli",
+  "version": "1.15.0",
+  "description": "Cosense (旧Scrapbox) のページを読み・調べ・編集するAgent Skillのハーネス",
+  "homepage": "https://github.com/helpfeel/cosense-cli",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helpfeel/cosense-cli.git"
+  },
+  "bin": {
+    "cosense": "bin/cosense"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "type": "module",
+  "scripts": {
+    "lint": "run-s lint:**",
+    "lint:oxfmt": "oxfmt --check",
+    "lint:tsc": "tsc -p tsconfig.json",
+    "lint:oxlint": "oxlint --report-unused-disable-directives-severity error",
+    "format": "oxfmt"
+  },
+  "dependencies": {
+    "tsx": "4.23.13"
+  },
+  "devDependencies": {
+    "@types/node": "24.13.3",
+    "npm-run-all": "4.1.5",
+    "oxfmt": "0.65.0",
+    "oxlint": "1.80.0",
+    "typescript": "7.0.2"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}

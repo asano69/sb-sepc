@@ -1,0 +1,33 @@
+import { defineConfig } from "vite-plus";
+
+export default defineConfig({
+  pack: {
+    entry: "src/index.ts",
+    dts: true,
+    minify: true,
+    sourcemap: true,
+    platform: "neutral",
+    clean: true,
+  },
+  lint: {
+    ignorePatterns: ["dist/**", "coverage/**"],
+    plugins: ["import", "typescript"],
+    options: { typeAware: true, typeCheck: true },
+    rules: {
+      "import/extensions": "error",
+      "@typescript-eslint/no-inferrable-types": "error",
+      "@typescript-eslint/no-floating-promises": [
+        "error",
+        {
+          allowForKnownSafeCalls: [
+            { from: "file", name: ["describe", "it"], path: "./**/*.test.ts" },
+          ],
+        },
+      ],
+    },
+  },
+  fmt: {},
+  test: {
+    include: ["test/**/*.test.ts"],
+  },
+});

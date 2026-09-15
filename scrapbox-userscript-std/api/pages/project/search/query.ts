@@ -1,0 +1,67 @@
+import type {
+  NotFoundError,
+  NotLoggedInError,
+  NotMemberError,
+  SearchResult,
+} from "@cosense/types/rest";
+import type { ResponseOfEndpoint } from "../../../../targeted_response.ts";
+import { type BaseOptions, setDefaults } from "../../../../util.ts";
+import { cookie } from "../../../../rest/auth.ts";
+
+/** Constructs a request for the `/api/pages/:project/search/query` endpoint
+ *
+ * @experimental **UNSTABLE**: New API, yet to be vetted.
+ *
+ * @param project The name of the project to search within
+ * @param query The search query string to match against pages
+ * @param options - Additional configuration options
+ * @returns A {@linkcode Request} object for fetching page data
+ */
+export const makeSearchForPagesRequest = <R extends Response | undefined>(
+  project: string,
+  query: string,
+  options?: BaseOptions<R>,
+): Request => {
+  const { sid, baseURL } = setDefaults(options ?? {});
+
+  return new Request(
+    `${baseURL}api/pages/${project}/search/query?q=${
+      encodeURIComponent(query)
+    }`,
+    sid ? { headers: { Cookie: cookie(sid) } } : undefined,
+  );
+};
+
+/** Search for pages within a specific project
+ *
+ * @experimental **UNSTABLE**: New API, yet to be vetted.
+ *
+ * @param project The name of the project to search within
+ * @param query The search query string to match against pages
+ * @param options Additional configuration options for the request
+ * @returns A {@linkcode Response} object containing the search results
+ */
+export const searchForPages = <R extends Response | undefined = Response>(
+  project: string,
+  query: string,
+  options?: BaseOptions<R>,
+): Promise<
+  ResponseOfEndpoint<{
+    200: SearchResult;
+    404: NotFoundError;
+    401: NotLoggedInError;
+    403: NotMemberError;
+    422: { message: string };
+  }, R>
+> =>
+  setDefaults(options ?? {}).fetch(
+    makeSearchForPagesRequest(project, query, options),
+  ) as Promise<
+    ResponseOfEndpoint<{
+      200: SearchResult;
+      404: NotFoundError;
+      401: NotLoggedInError;
+      403: NotMemberError;
+      422: { message: string };
+    }, R>
+  >;

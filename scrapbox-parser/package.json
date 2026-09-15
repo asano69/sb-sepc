@@ -1,0 +1,42 @@
+{
+  "name": "@progfay/scrapbox-parser",
+  "version": "10.1.1",
+  "description": "parse Scrapbox notation to JavaScript Object",
+  "keywords": [
+    "parser",
+    "scrapbox"
+  ],
+  "homepage": "https://github.com/progfay/scrapbox-parser#readme",
+  "bugs": {
+    "url": "https://github.com/progfay/scrapbox-parser/issues"
+  },
+  "license": "MIT",
+  "author": "progfay",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/progfay/scrapbox-parser.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "type": "module",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": "./dist/index.js",
+    "./package.json": "./package.json"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "vp pack",
+    "prepare": "npm run build",
+    "test": "vp test",
+    "test:update": "vp test --update",
+    "lint": "vp lint",
+    "format": "vp fmt"
+  },
+  "devDependencies": {
+    "vite-plus": "0.3.0"
+  }
+}

@@ -1,0 +1,39 @@
+import type { NodeParser, NodeParserOption } from "./index.ts";
+import { convertToNodes } from "./index.ts";
+import type { Node } from "./type.ts";
+
+export type NodeCreator<T extends Node> = (match: RegExpExecArray, opts: NodeParserOption) => T[];
+
+type NodeParserCreatorOptions = {
+  parseOnNested: boolean;
+  parseOnQuoted: boolean;
+  patterns: RegExp[];
+};
+
+type NodeParserCreator<T extends Node> = (
+  nodeCreator: NodeCreator<T>,
+  opts: NodeParserCreatorOptions,
+) => NodeParser;
+
+export const createNodeParser: NodeParserCreator<Node> = (
+  nodeCreator,
+  { parseOnNested, parseOnQuoted, patterns },
+) => {
+  return (text, opts, next) => {
+    if (!parseOnNested && opts.nested) return next();
+    if (!parseOnQuoted && opts.quoted) return next();
+
+    for (const pattern of patterns) {
+      const match = pattern.exec(text);
+      if (match === null) continue;
+
+      const left = text.substring(0, match.index);
+      const right = text.substring(match.index + match[0].length);
+
+      const node = nodeCreator(match, opts);
+      return [...convertToNodes(left, opts), ...node, ...convertToNodes(right, opts)];
+    }
+
+    return next();
+  };
+};
