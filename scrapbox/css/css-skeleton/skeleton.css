@@ -1,0 +1,1275 @@
+body {}
+.fa-spinner {}
+.katex {}
+.katex-display {}
+html {}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {}
+audio,
+canvas,
+progress,
+video {}
+audio:not([controls]) {}
+[hidden],
+template {}
+a {}
+abbr[title] {}
+b,
+strong {}
+dfn {}
+h1 {}
+mark {}
+small {}
+sub,
+sup {}
+sup {}
+sub {}
+img {}
+svg:not(:root) {}
+figure {}
+hr {}
+pre {}
+code,
+kbd,
+pre,
+samp {}
+button,
+input,
+optgroup,
+select,
+textarea {}
+button {}
+button,
+select {}
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {}
+button[disabled],
+html input[disabled] {}
+button::-moz-focus-inner,
+input::-moz-focus-inner {}
+input {}
+fieldset {}
+legend {}
+textarea {}
+optgroup {}
+table {}
+td,
+th {}
+* {}
+input,
+button,
+select,
+textarea {}
+a:active,
+[data-hover-visible] a:hover,
+[data-focus-visible] a:focus {}
+[data-focus-visible] a:focus {}
+.img-responsive {}
+.img-rounded {}
+.img-thumbnail {}
+.img-circle {}
+.sr-only {}
+.sr-only-focusable:active,
+.sr-only-focusable:focus {}
+[role="button"] {}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {}
+h1 small,
+h1 .small,
+h2 small,
+h2 .small,
+h3 small,
+h3 .small,
+h4 small,
+h4 .small,
+h5 small,
+h5 .small,
+h6 small,
+h6 .small,
+.h1 small,
+.h1 .small,
+.h2 small,
+.h2 .small,
+.h3 small,
+.h3 .small,
+.h4 small,
+.h4 .small,
+.h5 small,
+.h5 .small,
+.h6 small,
+.h6 .small {}
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3 {}
+h1 small,
+h1 .small,
+.h1 small,
+.h1 .small,
+h2 small,
+h2 .small,
+.h2 small,
+.h2 .small,
+h3 small,
+h3 .small,
+.h3 small,
+.h3 .small {}
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {}
+h4 small,
+h4 .small,
+.h4 small,
+.h4 .small,
+h5 small,
+h5 .small,
+.h5 small,
+.h5 .small,
+h6 small,
+h6 .small,
+.h6 small,
+.h6 .small {}
+h1,
+.h1 {}
+h2,
+.h2 {}
+h3,
+.h3 {}
+h4,
+.h4 {}
+h5,
+.h5 {}
+h6,
+.h6 {}
+p {}
+.lead {}
+small,
+.small {}
+mark,
+.mark {}
+.text-left {}
+.text-right {}
+.text-center {}
+.text-justify {}
+.text-nowrap {}
+.text-lowercase {}
+.text-uppercase,
+.initialism {}
+.text-capitalize {}
+.text-muted {}
+.text-primary {}
+[data-hover-visible] a.text-primary:hover,
+[data-focus-visible] a.text-primary:focus {}
+.text-success {}
+[data-hover-visible] a.text-success:hover,
+[data-focus-visible] a.text-success:focus {}
+.text-info {}
+[data-hover-visible] a.text-info:hover,
+[data-focus-visible] a.text-info:focus {}
+.text-warning {}
+[data-hover-visible] a.text-warning:hover,
+[data-focus-visible] a.text-warning:focus {}
+.text-danger {}
+[data-hover-visible] a.text-danger:hover,
+[data-focus-visible] a.text-danger:focus {}
+.bg-primary {}
+[data-hover-visible] a.bg-primary:hover,
+[data-focus-visible] a.bg-primary:focus {}
+.bg-success {}
+[data-hover-visible] a.bg-success:hover,
+[data-focus-visible] a.bg-success:focus {}
+.bg-info {}
+[data-hover-visible] a.bg-info:hover,
+[data-focus-visible] a.bg-info:focus {}
+.bg-warning {}
+[data-hover-visible] a.bg-warning:hover,
+[data-focus-visible] a.bg-warning:focus {}
+.bg-danger {}
+[data-hover-visible] a.bg-danger:hover,
+[data-focus-visible] a.bg-danger:focus {}
+.page-header {}
+ul,
+ol {}
+ul ul,
+ul ol,
+ol ul,
+ol ol {}
+.list-unstyled {}
+.list-inline {}
+dl {}
+dt,
+dd {}
+dt {}
+dd {}
+abbr[title],
+abbr[data-original-title] {}
+.initialism {}
+blockquote {}
+.blockquote-reverse,
+blockquote.pull-right {}
+.blockquote-reverse footer:before,
+.blockquote-reverse small:before,
+.blockquote-reverse .small:before,
+blockquote.pull-right footer:before,
+blockquote.pull-right small:before,
+blockquote.pull-right .small:before {}
+.blockquote-reverse footer:after,
+.blockquote-reverse small:after,
+.blockquote-reverse .small:after,
+blockquote.pull-right footer:after,
+blockquote.pull-right small:after,
+blockquote.pull-right .small:after {}
+address {}
+code {}
+kbd {}
+.pre-scrollable {}
+.container {}
+.container-fluid {}
+.row {}
+.col-xs-1,
+.col-sm-1,
+.col-md-1,
+.col-lg-1,
+.col-xs-2,
+.col-sm-2,
+.col-md-2,
+.col-lg-2,
+.col-xs-3,
+.col-sm-3,
+.col-md-3,
+.col-lg-3,
+.col-xs-4,
+.col-sm-4,
+.col-md-4,
+.col-lg-4,
+.col-xs-5,
+.col-sm-5,
+.col-md-5,
+.col-lg-5,
+.col-xs-6,
+.col-sm-6,
+.col-md-6,
+.col-lg-6,
+.col-xs-7,
+.col-sm-7,
+.col-md-7,
+.col-lg-7,
+.col-xs-8,
+.col-sm-8,
+.col-md-8,
+.col-lg-8,
+.col-xs-9,
+.col-sm-9,
+.col-md-9,
+.col-lg-9,
+.col-xs-10,
+.col-sm-10,
+.col-md-10,
+.col-lg-10,
+.col-xs-11,
+.col-sm-11,
+.col-md-11,
+.col-lg-11,
+.col-xs-12,
+.col-sm-12,
+.col-md-12,
+.col-lg-12 {}
+.col-xs-1 {}
+.col-xs-2 {}
+.col-xs-3 {}
+.col-xs-4 {}
+.col-xs-5 {}
+.col-xs-6 {}
+.col-xs-7 {}
+.col-xs-8 {}
+.col-xs-9 {}
+.col-xs-10 {}
+.col-xs-11 {}
+.col-xs-12 {}
+.col-xs-pull-0 {}
+.col-xs-pull-1 {}
+.col-xs-pull-2 {}
+.col-xs-pull-3 {}
+.col-xs-pull-4 {}
+.col-xs-pull-5 {}
+.col-xs-pull-6 {}
+.col-xs-pull-7 {}
+.col-xs-pull-8 {}
+.col-xs-pull-9 {}
+.col-xs-pull-10 {}
+.col-xs-pull-11 {}
+.col-xs-pull-12 {}
+.col-xs-push-0 {}
+.col-xs-push-1 {}
+.col-xs-push-2 {}
+.col-xs-push-3 {}
+.col-xs-push-4 {}
+.col-xs-push-5 {}
+.col-xs-push-6 {}
+.col-xs-push-7 {}
+.col-xs-push-8 {}
+.col-xs-push-9 {}
+.col-xs-push-10 {}
+.col-xs-push-11 {}
+.col-xs-push-12 {}
+.col-xs-offset-0 {}
+.col-xs-offset-1 {}
+.col-xs-offset-2 {}
+.col-xs-offset-3 {}
+.col-xs-offset-4 {}
+.col-xs-offset-5 {}
+.col-xs-offset-6 {}
+.col-xs-offset-7 {}
+.col-xs-offset-8 {}
+.col-xs-offset-9 {}
+.col-xs-offset-10 {}
+.col-xs-offset-11 {}
+.col-xs-offset-12 {}
+caption {}
+th {}
+.table {}
+.table-condensed > thead > tr > th,
+.table-condensed > thead > tr > td,
+.table-condensed > tbody > tr > th,
+.table-condensed > tbody > tr > td,
+.table-condensed > tfoot > tr > th,
+.table-condensed > tfoot > tr > td {}
+.table-bordered {}
+.table-striped > tbody > tr:nth-of-type(odd) {}
+[data-hover-visible] .table-hover > tbody > tr:hover {}
+.table-hover > tbody > tr > td.active:hover,
+.table-hover > tbody > tr > th.active:hover,
+.table-hover > tbody > tr.active:hover > td,
+.table-hover > tbody > tr:hover > .active,
+.table-hover > tbody > tr.active:hover > th {}
+.table-hover > tbody > tr > td.success:hover,
+.table-hover > tbody > tr > th.success:hover,
+.table-hover > tbody > tr.success:hover > td,
+.table-hover > tbody > tr:hover > .success,
+.table-hover > tbody > tr.success:hover > th {}
+.table-hover > tbody > tr > td.info:hover,
+.table-hover > tbody > tr > th.info:hover,
+.table-hover > tbody > tr.info:hover > td,
+.table-hover > tbody > tr:hover > .info,
+.table-hover > tbody > tr.info:hover > th {}
+.table-hover > tbody > tr > td.warning:hover,
+.table-hover > tbody > tr > th.warning:hover,
+.table-hover > tbody > tr.warning:hover > td,
+.table-hover > tbody > tr:hover > .warning,
+.table-hover > tbody > tr.warning:hover > th {}
+.table-hover > tbody > tr > td.danger:hover,
+.table-hover > tbody > tr > th.danger:hover,
+.table-hover > tbody > tr.danger:hover > td,
+.table-hover > tbody > tr:hover > .danger,
+.table-hover > tbody > tr.danger:hover > th {}
+.table-responsive {}
+label {}
+select[multiple],
+select[size] {}
+[data-focus-visible] input[type="radio"]:focus,
+[data-focus-visible] input[type="checkbox"]:focus {}
+output {}
+.form-control {}
+.form-control[disabled],
+.form-control[readonly],
+fieldset[disabled] .form-control {}
+.form-control[disabled],
+fieldset[disabled] .form-control {}
+.form-group {}
+select.form-control {}
+.radio,
+.checkbox {}
+.radio input[type="radio"],
+.radio-inline input[type="radio"] {}
+[data-focus-visible] .radio input[type="radio"]:checked:focus,
+[data-focus-visible] .radio-inline input[type="radio"]:checked:focus {}
+.checkbox input[type="checkbox"],
+.checkbox-inline input[type="checkbox"] {}
+.radio + .radio,
+.checkbox + .checkbox {}
+.radio-inline,
+.checkbox-inline {}
+.radio-inline + .radio-inline,
+.checkbox-inline + .checkbox-inline {}
+input[type="radio"][disabled],
+input[type="radio"].disabled,
+fieldset[disabled] input[type="radio"],
+input[type="checkbox"][disabled],
+input[type="checkbox"].disabled,
+fieldset[disabled] input[type="checkbox"] {}
+.radio-inline.disabled,
+fieldset[disabled] .radio-inline,
+.checkbox-inline.disabled,
+fieldset[disabled] .checkbox-inline {}
+.form-control-static {}
+.form-control-static.input-lg,
+.input-group-lg > .form-control-static.form-control,
+.input-group-lg > .form-control-static.input-group-addon,
+.input-group-lg > .input-group-btn > .form-control-static.btn,
+.form-control-static.input-sm,
+.input-group-sm > .form-control-static.form-control,
+.input-group-sm > .form-control-static.input-group-addon,
+.input-group-sm > .input-group-btn > .form-control-static.btn {}
+.input-sm,
+.input-group-sm > .form-control,
+.input-group-sm > .input-group-addon,
+.input-group-sm > .input-group-btn > .btn {}
+textarea.input-sm,
+.input-group-sm > textarea.form-control,
+.input-group-sm > textarea.input-group-addon,
+.input-group-sm > .input-group-btn > textarea.btn,
+select[multiple].input-sm,
+.input-group-sm > select[multiple].form-control,
+.input-group-sm > select[multiple].input-group-addon,
+.input-group-sm > .input-group-btn > select[multiple].btn {}
+.form-group-sm textarea.form-control,
+.form-group-sm select[multiple].form-control {}
+.input-lg,
+.input-group-lg > .form-control,
+.input-group-lg > .input-group-addon,
+.input-group-lg > .input-group-btn > .btn {}
+textarea.input-lg,
+.input-group-lg > textarea.form-control,
+.input-group-lg > textarea.input-group-addon,
+.input-group-lg > .input-group-btn > textarea.btn,
+select[multiple].input-lg,
+.input-group-lg > select[multiple].form-control,
+.input-group-lg > select[multiple].input-group-addon,
+.input-group-lg > .input-group-btn > select[multiple].btn {}
+.form-group-lg textarea.form-control,
+.form-group-lg select[multiple].form-control {}
+.has-feedback {}
+.form-control-feedback {}
+.has-success .help-block,
+.has-success .control-label,
+.has-success .radio,
+.has-success .checkbox,
+.has-success .radio-inline,
+.has-success .checkbox-inline,
+.has-success.radio label,
+.has-success.checkbox label,
+.has-success.radio-inline label,
+.has-success.checkbox-inline label {}
+.has-warning .help-block,
+.has-warning .control-label,
+.has-warning .radio,
+.has-warning .checkbox,
+.has-warning .radio-inline,
+.has-warning .checkbox-inline,
+.has-warning.radio label,
+.has-warning.checkbox label,
+.has-warning.radio-inline label,
+.has-warning.checkbox-inline label {}
+.has-error .help-block,
+.has-error .control-label,
+.has-error .radio,
+.has-error .checkbox,
+.has-error .radio-inline,
+.has-error .checkbox-inline,
+.has-error.radio label,
+.has-error.checkbox label,
+.has-error.radio-inline label,
+.has-error.checkbox-inline label {}
+.help-block {}
+.form-horizontal .radio,
+.form-horizontal .checkbox,
+.form-horizontal .radio-inline,
+.form-horizontal .checkbox-inline {}
+.btn {}
+[data-focus-visible] .btn:focus,
+[data-focus-visible] .btn:active:focus,
+[data-focus-visible] .btn.active:focus {}
+[data-hover-visible] .btn:hover,
+[data-focus-visible] .btn:focus {}
+.btn.disabled,
+.btn[disabled],
+fieldset[disabled] .btn {}
+a.btn.disabled,
+fieldset[disabled] a.btn {}
+.btn-default {}
+[data-focus-visible] .btn-default:focus {}
+[data-hover-visible] .btn-default:hover {}
+.btn-default:active,
+.btn-default.active,
+.open > .btn-default.dropdown-toggle {}
+[data-hover-visible] .btn-default:active:hover,
+[data-focus-visible] .btn-default:active:focus,
+[data-hover-visible] .btn-default.active:hover,
+[data-focus-visible] .btn-default.active:focus,
+[data-hover-visible] .open > .btn-default.dropdown-toggle:hover,
+[data-focus-visible] .open > .btn-default.dropdown-toggle:focus {}
+[data-hover-visible] .btn-default.disabled:hover,
+[data-focus-visible] .btn-default.disabled:focus,
+[data-hover-visible] .btn-default[disabled]:hover,
+[data-focus-visible] .btn-default[disabled]:focus,
+[data-hover-visible] fieldset[disabled] .btn-default:hover,
+[data-focus-visible] fieldset[disabled] .btn-default:focus {}
+.btn-primary {}
+[data-focus-visible] .btn-primary:focus {}
+[data-hover-visible] .btn-primary:hover {}
+.btn-primary:active,
+.btn-primary.active,
+.open > .btn-primary.dropdown-toggle {}
+[data-hover-visible] .btn-primary:active:hover,
+[data-focus-visible] .btn-primary:active:focus,
+[data-hover-visible] .btn-primary.active:hover,
+[data-focus-visible] .btn-primary.active:focus,
+[data-hover-visible] .open > .btn-primary.dropdown-toggle:hover,
+[data-focus-visible] .open > .btn-primary.dropdown-toggle:focus {}
+[data-hover-visible] .btn-primary.disabled:hover,
+[data-focus-visible] .btn-primary.disabled:focus,
+[data-hover-visible] .btn-primary[disabled]:hover,
+[data-focus-visible] .btn-primary[disabled]:focus,
+[data-hover-visible] fieldset[disabled] .btn-primary:hover,
+[data-focus-visible] fieldset[disabled] .btn-primary:focus {}
+.btn-success {}
+[data-focus-visible] .btn-success:focus {}
+[data-hover-visible] .btn-success:hover {}
+.btn-success:active,
+.btn-success.active,
+.open > .btn-success.dropdown-toggle {}
+[data-hover-visible] .btn-success:active:hover,
+[data-focus-visible] .btn-success:active:focus,
+[data-hover-visible] .btn-success.active:hover,
+[data-focus-visible] .btn-success.active:focus,
+[data-hover-visible] .open > .btn-success.dropdown-toggle:hover,
+[data-focus-visible] .open > .btn-success.dropdown-toggle:focus {}
+[data-hover-visible] .btn-success.disabled:hover,
+[data-focus-visible] .btn-success.disabled:focus,
+[data-hover-visible] .btn-success[disabled]:hover,
+[data-focus-visible] .btn-success[disabled]:focus,
+[data-hover-visible] fieldset[disabled] .btn-success:hover,
+[data-focus-visible] fieldset[disabled] .btn-success:focus {}
+.btn-info {}
+[data-focus-visible] .btn-info:focus {}
+[data-hover-visible] .btn-info:hover {}
+.btn-info:active,
+.btn-info.active,
+.open > .btn-info.dropdown-toggle {}
+[data-hover-visible] .btn-info:active:hover,
+[data-focus-visible] .btn-info:active:focus,
+[data-hover-visible] .btn-info.active:hover,
+[data-focus-visible] .btn-info.active:focus,
+[data-hover-visible] .open > .btn-info.dropdown-toggle:hover,
+[data-focus-visible] .open > .btn-info.dropdown-toggle:focus {}
+[data-hover-visible] .btn-info.disabled:hover,
+[data-focus-visible] .btn-info.disabled:focus,
+[data-hover-visible] .btn-info[disabled]:hover,
+[data-focus-visible] .btn-info[disabled]:focus,
+[data-hover-visible] fieldset[disabled] .btn-info:hover,
+[data-focus-visible] fieldset[disabled] .btn-info:focus {}
+.btn-warning {}
+[data-focus-visible] .btn-warning:focus {}
+[data-hover-visible] .btn-warning:hover {}
+.btn-warning:active,
+.btn-warning.active,
+.open > .btn-warning.dropdown-toggle {}
+[data-hover-visible] .btn-warning:active:hover,
+[data-focus-visible] .btn-warning:active:focus,
+[data-hover-visible] .btn-warning.active:hover,
+[data-focus-visible] .btn-warning.active:focus,
+[data-hover-visible] .open > .btn-warning.dropdown-toggle:hover,
+[data-focus-visible] .open > .btn-warning.dropdown-toggle:focus {}
+[data-hover-visible] .btn-warning.disabled:hover,
+[data-focus-visible] .btn-warning.disabled:focus,
+[data-hover-visible] .btn-warning[disabled]:hover,
+[data-focus-visible] .btn-warning[disabled]:focus,
+[data-hover-visible] fieldset[disabled] .btn-warning:hover,
+[data-focus-visible] fieldset[disabled] .btn-warning:focus {}
+.btn-danger {}
+[data-focus-visible] .btn-danger:focus {}
+[data-hover-visible] .btn-danger:hover {}
+.btn-danger:active,
+.btn-danger.active,
+.open > .btn-danger.dropdown-toggle {}
+[data-hover-visible] .btn-danger:active:hover,
+[data-focus-visible] .btn-danger:active:focus,
+[data-hover-visible] .btn-danger.active:hover,
+[data-focus-visible] .btn-danger.active:focus,
+[data-hover-visible] .open > .btn-danger.dropdown-toggle:hover,
+[data-focus-visible] .open > .btn-danger.dropdown-toggle:focus {}
+[data-hover-visible] .btn-danger.disabled:hover,
+[data-focus-visible] .btn-danger.disabled:focus,
+[data-hover-visible] .btn-danger[disabled]:hover,
+[data-focus-visible] .btn-danger[disabled]:focus,
+[data-hover-visible] fieldset[disabled] .btn-danger:hover,
+[data-focus-visible] fieldset[disabled] .btn-danger:focus {}
+.file-upload-btn,
+input[type="file"]::-webkit-file-upload-button {}
+[data-focus-visible] .file-upload-btn:focus,
+[data-focus-visible] input[type="file"]:focus::-webkit-file-upload-button,
+[data-focus-visible] .file-upload-btn:active:focus,
+[data-focus-visible] .file-upload-btn.active:focus {}
+[data-hover-visible] .file-upload-btn:hover,
+[data-hover-visible] input[type="file"]:hover::-webkit-file-upload-button,
+[data-focus-visible] .file-upload-btn:focus,
+[data-focus-visible] input[type="file"]:focus::-webkit-file-upload-button {}
+.file-upload-btn:active,
+input[type="file"]:active::-webkit-file-upload-button,
+.file-upload-btn.active,
+input.active[type="file"]::-webkit-file-upload-button {}
+.file-upload-btn.disabled,
+input.disabled[type="file"]::-webkit-file-upload-button,
+.file-upload-btn[disabled],
+input[disabled][type="file"]::-webkit-file-upload-button,
+fieldset[disabled] .file-upload-btn,
+fieldset[disabled] input[type="file"]::-webkit-file-upload-button {}
+[data-focus-visible] .file-upload-btn:focus,
+[data-focus-visible] input[type="file"]:focus::-webkit-file-upload-button {}
+[data-hover-visible] .file-upload-btn:hover,
+[data-hover-visible] input[type="file"]:hover::-webkit-file-upload-button {}
+.file-upload-btn:active,
+input[type="file"]:active::-webkit-file-upload-button,
+.file-upload-btn.active,
+input.active[type="file"]::-webkit-file-upload-button,
+.open > .file-upload-btn.dropdown-toggle,
+.open > input.dropdown-toggle[type="file"]::-webkit-file-upload-button {}
+[data-hover-visible] .file-upload-btn:active:hover,
+[data-hover-visible]
+  input[type="file"]:active:hover::-webkit-file-upload-button,
+[data-focus-visible] .file-upload-btn:active:focus,
+[data-focus-visible]
+  input[type="file"]:active:focus::-webkit-file-upload-button,
+[data-hover-visible] .file-upload-btn.active:hover,
+[data-hover-visible]
+  input.active[type="file"]:hover::-webkit-file-upload-button,
+[data-focus-visible] .file-upload-btn.active:focus,
+[data-focus-visible]
+  input.active[type="file"]:focus::-webkit-file-upload-button,
+[data-hover-visible] .open > .file-upload-btn.dropdown-toggle:hover,
+[data-hover-visible]
+  .open
+  > input.dropdown-toggle[type="file"]:hover::-webkit-file-upload-button,
+[data-focus-visible] .open > .file-upload-btn.dropdown-toggle:focus,
+[data-focus-visible]
+  .open
+  > input.dropdown-toggle[type="file"]:focus::-webkit-file-upload-button {}
+[data-hover-visible] .file-upload-btn.disabled:hover,
+[data-hover-visible]
+  input.disabled[type="file"]:hover::-webkit-file-upload-button,
+[data-focus-visible] .file-upload-btn.disabled:focus,
+[data-focus-visible]
+  input.disabled[type="file"]:focus::-webkit-file-upload-button,
+[data-hover-visible] .file-upload-btn[disabled]:hover,
+[data-hover-visible]
+  input[disabled][type="file"]:hover::-webkit-file-upload-button,
+[data-focus-visible] .file-upload-btn[disabled]:focus,
+[data-focus-visible]
+  input[disabled][type="file"]:focus::-webkit-file-upload-button,
+[data-hover-visible] fieldset[disabled] .file-upload-btn:hover,
+[data-hover-visible]
+  fieldset[disabled]
+  input[type="file"]:hover::-webkit-file-upload-button,
+[data-focus-visible] fieldset[disabled] .file-upload-btn:focus,
+[data-focus-visible]
+  fieldset[disabled]
+  input[type="file"]:focus::-webkit-file-upload-button {}
+.btn-link {}
+.btn-link,
+.btn-link:active,
+.btn-link.active,
+.btn-link[disabled],
+fieldset[disabled] .btn-link {}
+.btn-link,
+[data-hover-visible] .btn-link:hover,
+[data-focus-visible] .btn-link:focus,
+.btn-link:active {}
+[data-hover-visible] .btn-link:hover,
+[data-focus-visible] .btn-link:focus {}
+[data-hover-visible] .btn-link[disabled]:hover,
+[data-focus-visible] .btn-link[disabled]:focus,
+[data-hover-visible] fieldset[disabled] .btn-link:hover,
+[data-focus-visible] fieldset[disabled] .btn-link:focus {}
+.btn-lg,
+.btn-group-lg > .btn {}
+.btn-sm,
+.btn-group-sm > .btn {}
+.btn-xs,
+.btn-group-xs > .btn {}
+.btn-block {}
+.fade {}
+.collapse {}
+tr.collapse.in {}
+tbody.collapse.in {}
+.collapsing {}
+.caret {}
+.dropup,
+.dropdown {}
+.dropdown-menu {}
+.dropdown-menu > li > a:active,
+[data-hover-visible] .dropdown-menu > li > a:hover,
+[data-focus-visible] .dropdown-menu > li > a:focus {}
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:active,
+[data-hover-visible] .dropdown-menu > .active > a:hover,
+[data-focus-visible] .dropdown-menu > .active > a:focus {}
+.dropdown-menu > .disabled > a,
+.dropdown-menu > .disabled > a:active,
+[data-hover-visible] .dropdown-menu > .disabled > a:hover,
+[data-focus-visible] .dropdown-menu > .disabled > a:focus {}
+.dropdown-menu > .disabled > a:active,
+[data-hover-visible] .dropdown-menu > .disabled > a:hover,
+[data-focus-visible] .dropdown-menu > .disabled > a:focus {}
+.dropdown-menu-right {}
+.dropdown-menu-left {}
+.dropdown-header {}
+.dropdown-backdrop {}
+.btn-group,
+.btn-group-vertical {}
+.btn-group > .btn:active,
+.btn-group > .btn.active,
+[data-hover-visible] .btn-group > .btn:hover,
+.btn-group-vertical > .btn:active,
+.btn-group-vertical > .btn.active,
+[data-hover-visible] .btn-group-vertical > .btn:hover {}
+[data-focus-visible] .btn-group > .btn:focus,
+[data-focus-visible] .btn-group-vertical > .btn:focus {}
+.btn-group-vertical {}
+.btn-group .btn + .btn,
+.btn-group .btn + .btn-group,
+.btn-group .btn-group + .btn,
+.btn-group .btn-group + .btn-group {}
+.btn-toolbar {}
+.btn-group > .btn:not(:first-child):not(:last-child):not(.dropdown-toggle) {}
+.btn-group > .btn:first-child {}
+.btn-group > .btn:last-child:not(:first-child),
+.btn-group > .dropdown-toggle:not(:first-child) {}
+.btn-group > .btn-group:first-child:not(:last-child) > .btn:last-child,
+.btn-group > .btn-group:first-child:not(:last-child) > .dropdown-toggle {}
+.btn-group > .btn-group:last-child:not(:first-child) > .btn:first-child {}
+.btn-group-justified {}
+[data-toggle="buttons"] > .btn input[type="radio"],
+[data-toggle="buttons"] > .btn input[type="checkbox"],
+[data-toggle="buttons"] > .btn-group > .btn input[type="radio"],
+[data-toggle="buttons"] > .btn-group > .btn input[type="checkbox"] {}
+.input-group {}
+.input-group-addon:not(:first-child):not(:last-child),
+.input-group-btn:not(:first-child):not(:last-child),
+.input-group .form-control:not(:first-child):not(:last-child) {}
+.input-group-addon,
+.input-group-btn {}
+.input-group-addon {}
+.input-group-addon.input-sm,
+.input-group-sm > .input-group-addon,
+.input-group-sm > .input-group-btn > .input-group-addon.btn {}
+.input-group-addon.input-lg,
+.input-group-lg > .input-group-addon,
+.input-group-lg > .input-group-btn > .input-group-addon.btn {}
+.input-group .form-control:first-child,
+.input-group-addon:first-child,
+.input-group-btn:first-child > .btn,
+.input-group-btn:first-child > .btn-group > .btn,
+.input-group-btn:first-child > .dropdown-toggle,
+.input-group-btn:last-child > .btn:not(:last-child):not(.dropdown-toggle),
+.input-group-btn:last-child > .btn-group:not(:last-child) > .btn {}
+.input-group .form-control:last-child,
+.input-group-addon:last-child,
+.input-group-btn:last-child > .btn,
+.input-group-btn:last-child > .btn-group > .btn,
+.input-group-btn:last-child > .dropdown-toggle,
+.input-group-btn:first-child > .btn:not(:first-child),
+.input-group-btn:first-child > .btn-group:not(:first-child) > .btn {}
+.input-group-btn {}
+.input-group-btn > .btn:active,
+[data-hover-visible] .input-group-btn > .btn:hover {}
+[data-focus-visible] .input-group-btn > .btn:focus {}
+.nav {}
+[data-hover-visible] .nav > li > a:hover,
+[data-focus-visible] .nav > li > a:focus {}
+.nav > li.disabled > a:active,
+[data-hover-visible] .nav > li.disabled > a:hover,
+[data-focus-visible] .nav > li.disabled > a:focus {}
+.nav .open > a,
+.nav .open > a:active,
+[data-hover-visible] .nav .open > a:hover,
+[data-focus-visible] .nav .open > a:focus {}
+.nav-tabs {}
+[data-hover-visible] .nav-tabs > li > a:hover {}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:active,
+[data-hover-visible] .nav-tabs > li.active > a:hover,
+[data-focus-visible] .nav-tabs > li.active > a:focus {}
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:active,
+[data-hover-visible] .nav-pills > li.active > a:hover,
+[data-focus-visible] .nav-pills > li.active > a:focus {}
+.nav-stacked {}
+.nav-justified,
+.nav-tabs.nav-justified {}
+.nav-tabs-justified,
+.nav-tabs.nav-justified {}
+.nav-tabs-justified > .active > a,
+.nav-tabs.nav-justified > .active > a,
+.nav-tabs-justified > .active > a:active,
+[data-hover-visible] .nav-tabs-justified > .active > a:hover,
+[data-focus-visible] .nav-tabs-justified > .active > a:focus {}
+.navbar {}
+.navbar-header {}
+.navbar-collapse {}
+.container > .navbar-header,
+.container > .navbar-collapse,
+.container-fluid > .navbar-header,
+.container-fluid > .navbar-collapse {}
+.navbar-static-top {}
+.navbar-fixed-top,
+.navbar-fixed-bottom {}
+.navbar-fixed-top {}
+.navbar-fixed-bottom {}
+.navbar-brand {}
+.navbar-brand:active,
+[data-hover-visible] .navbar-brand:hover,
+[data-focus-visible] .navbar-brand:focus {}
+.navbar-toggle {}
+.navbar-nav {}
+.navbar-form {}
+.navbar-btn {}
+.navbar-btn.btn-sm,
+.btn-group-sm > .navbar-btn.btn {}
+.navbar-btn.btn-xs,
+.btn-group-xs > .navbar-btn.btn {}
+.navbar-text {}
+.navbar-default {}
+.navbar-default .navbar-brand:active,
+[data-hover-visible] .navbar-default .navbar-brand:hover,
+[data-focus-visible] .navbar-default .navbar-brand:focus {}
+.navbar-default .navbar-nav > li > a:active,
+[data-hover-visible] .navbar-default .navbar-nav > li > a:hover,
+[data-focus-visible] .navbar-default .navbar-nav > li > a:focus {}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:active,
+[data-hover-visible] .navbar-default .navbar-nav > .active > a:hover,
+[data-focus-visible] .navbar-default .navbar-nav > .active > a:focus {}
+.navbar-default .navbar-nav > .disabled > a,
+.navbar-default .navbar-nav > .disabled > a:active,
+[data-hover-visible] .navbar-default .navbar-nav > .disabled > a:hover,
+[data-focus-visible] .navbar-default .navbar-nav > .disabled > a:focus {}
+.navbar-default .navbar-toggle:active,
+[data-hover-visible] .navbar-default .navbar-toggle:hover,
+[data-focus-visible] .navbar-default .navbar-toggle:focus {}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:active,
+[data-hover-visible] .navbar-default .navbar-nav > .open > a:hover,
+[data-focus-visible] .navbar-default .navbar-nav > .open > a:focus {}
+[data-hover-visible] .navbar-default .navbar-link:hover {}
+[data-hover-visible] .navbar-default .btn-link:hover,
+[data-focus-visible] .navbar-default .btn-link:focus {}
+[data-hover-visible] .navbar-default .btn-link[disabled]:hover,
+[data-focus-visible] .navbar-default .btn-link[disabled]:focus,
+[data-hover-visible] fieldset[disabled] .navbar-default .btn-link:hover,
+[data-focus-visible] fieldset[disabled] .navbar-default .btn-link:focus {}
+.navbar-inverse {}
+.navbar-inverse .navbar-brand:active,
+[data-hover-visible] .navbar-inverse .navbar-brand:hover,
+[data-focus-visible] .navbar-inverse .navbar-brand:focus {}
+.navbar-inverse .navbar-nav > li > a:active,
+[data-hover-visible] .navbar-inverse .navbar-nav > li > a:hover,
+[data-focus-visible] .navbar-inverse .navbar-nav > li > a:focus {}
+.navbar-inverse .navbar-nav > .active > a,
+[data-hover-visible] .navbar-inverse .navbar-nav > .active > a:hover,
+[data-focus-visible] .navbar-inverse .navbar-nav > .active > a:focus {}
+.navbar-inverse .navbar-nav > .disabled > a,
+[data-hover-visible] .navbar-inverse .navbar-nav > .disabled > a:hover,
+[data-focus-visible] .navbar-inverse .navbar-nav > .disabled > a:focus {}
+.navbar-inverse .navbar-toggle:active,
+[data-hover-visible] .navbar-inverse .navbar-toggle:hover,
+[data-focus-visible] .navbar-inverse .navbar-toggle:focus {}
+.navbar-inverse .navbar-nav > .open > a,
+[data-hover-visible] .navbar-inverse .navbar-nav > .open > a:hover,
+[data-focus-visible] .navbar-inverse .navbar-nav > .open > a:focus {}
+[data-hover-visible] .navbar-inverse .navbar-link:hover {}
+[data-hover-visible] .navbar-inverse .btn-link:hover,
+[data-focus-visible] .navbar-inverse .btn-link:focus {}
+[data-hover-visible] .navbar-inverse .btn-link[disabled]:hover,
+[data-focus-visible] .navbar-inverse .btn-link[disabled]:focus,
+[data-hover-visible] fieldset[disabled] .navbar-inverse .btn-link:hover,
+[data-focus-visible] fieldset[disabled] .navbar-inverse .btn-link:focus {}
+.alert {}
+.alert-dismissible {}
+.alert-success {}
+.alert-info {}
+.alert-warning {}
+.alert-danger {}
+.panel {}
+.panel-body {}
+.panel-heading {}
+.panel-title {}
+.panel-footer {}
+.panel-group {}
+.panel-default {}
+.panel-primary {}
+.panel-success {}
+.panel-info {}
+.panel-warning {}
+.panel-danger {}
+.close {}
+[data-hover-visible] .close:hover,
+[data-focus-visible] .close:focus {}
+[data-focus-visible] .close:focus {}
+.modal-open {}
+.modal {}
+.modal-dialog {}
+.modal-content {}
+.modal-backdrop {}
+.modal-header {}
+.modal-title {}
+.modal-body {}
+.modal-footer {}
+.modal-scrollbar-measure {}
+.tooltip {}
+.tooltip-inner {}
+.tooltip-arrow {}
+.clearfix:before,
+.project-notifications-form .list-item:before,
+.clearfix:after,
+.project-notifications-form .list-item:after {}
+.clearfix:after,
+.project-notifications-form .list-item:after {}
+.center-block {}
+.pull-right {}
+.pull-left {}
+.hide {}
+.show {}
+.invisible {}
+.text-hide {}
+.hidden {}
+.affix {}
+.visible-xs {}
+.visible-sm {}
+.visible-md {}
+.visible-lg {}
+.visible-xs-block,
+.visible-xs-inline,
+.visible-xs-inline-block,
+.visible-sm-block,
+.visible-sm-inline,
+.visible-sm-inline-block,
+.visible-md-block,
+.visible-md-inline,
+.visible-md-inline-block,
+.visible-lg-block,
+.visible-lg-inline,
+.visible-lg-inline-block {}
+.visible-print {}
+.visible-print-block {}
+.visible-print-inline {}
+.visible-print-inline-block {}
+.kamon {}
+.container-table {}
+h4 {}
+h5 {}
+.tab-content {}
+.tab-pane {}
+ol.breadcrumb {}
+[data-hover-visible] .btn-primary:hover,
+[data-hover-visible] .btn-primary:active:hover,
+[data-focus-visible] .btn-primary:active:focus,
+[data-hover-visible] .btn-primary.active:hover,
+[data-focus-visible] .btn-primary.active:focus,
+[data-hover-visible] .open > .btn-primary.dropdown-toggle:hover,
+[data-focus-visible] .open > .btn-primary.dropdown-toggle:focus {}
+.dropdown-menu > li > a.selected,
+[data-hover-visible] .dropdown-menu > li > a.selected {}
+.dropdown-toggle {}
+.navbar-skeleton {}
+html[data-os*="android"] .app.presentation .section-title:not(:first-child),
+.app.presentation[data-os*="android"] .section-title:not(:first-child) {}
+html[data-os*="ios"] .app.presentation .section-title:not(:first-child),
+.app.presentation[data-os*="ios"] .section-title:not(:first-child) {}
+.app {}
+.audio-link .play {}
+[data-hover-visible] .billing-alert a:hover {}
+[data-hover-visible] .billing-alert a.warning:hover {}
+[data-hover-visible] .billing-alert a.danger:hover {}
+.billings-info-page .btn.btn-primary.btn-highlight-blink {}
+.billings-info-page section {}
+.billings-info-page table.paid-project-list {}
+.billings-info-page ul.billing-rows {}
+.billings-info-page .card-info.fail {}
+.billings-info-page .card-info span.desc {}
+.billings-info-page .add-project-form {}
+.billings-info-page .add-project-button {}
+.billings-info-page .update-card-form .buttons {}
+.billings-info-page .update-company-name-form .buttons {}
+.admin-table .add-admin-right {}
+.admin-table .add-admin-form {}
+.compute-line {}
+.cursor {}
+.drag-and-drop.upload {}
+.drag-and-drop.text-drop {}
+.drag-and-drop-enter.newpage {}
+.editor {}
+.footer {}
+.file-delete-button {}
+.file-duplicate-between-projects-button {}
+.page-filter-menu {}
+[data-hover-visible] .page-filter-menu .tool-btn:hover {}
+.full-content-modal {}
+.pointing-device-modal .modal-body div.full-content {}
+.updatable-map {}
+.gyazo {}
+.iframe-video-player {}
+.in-page-search-form {}
+.infobox {}
+.cursor-line .cli .tool-buttons {}
+.line {}
+.cursor-line.with-image {}
+.lines {}
+.touch-layer {}
+.login-by-email-page.sent .email {}
+div[id^="dmermaid-preview"] {}
+dialog.modal {}
+.embed-text-modal {}
+.draw-modal .toolbar {}
+.draw-modal canvas {}
+.file-upload-modal .preview {}
+.file-upload-modal .file-size {}
+.smart-context-modal .hop-selector {}
+.smart-context-modal .generating {}
+.smart-context-modal .signed-url-result {}
+.drawer {}
+.expandable-menu-margin {}
+.expandable-menu {}
+[data-hover-visible]
+  .expandable-menu
+  .page-menu
+  .tool-btn:hover:not([disabled]) {}
+.global-menu {}
+.user-menu li a.updated,
+.user-menu li a.highlight {}
+.user-menu li a.highlight {}
+.user-menu li a.highlight-blink {}
+.user-menu-dropdown .text {}
+[data-hover-visible] .navbar .navbar-brand:hover {}
+.project-home,
+.project-home .title {}
+.navbar-common .row:has(.user-name) {}
+.project-list-tab {}
+.project-list-header {}
+.project-list-header-title {}
+.project-list-header-line {}
+.global-menu .project-list-filter,
+.drawer .drawer-menu ul .project-list-filter {}
+.brand-icon {}
+.new-billings-page .thankyou-block .head {}
+.new-billings-page .license {}
+.new-button {}
+[data-hover-visible] .new-button:hover {}
+.new-button:active,
+[data-hover-visible] .new-button:active {}
+.no-project-page img.logo {}
+.no-project-page h1,
+.no-project-page h2,
+.no-project-page h3 {}
+.overlay-box {}
+.page-column {}
+.stream-page-column {}
+.col-page {}
+.edit-page-button {}
+.page {}
+.page-sidebar {}
+.page-alert.page-history {}
+.page-alert .page-history-alert {}
+.page-history-select .date {}
+.page-history-select .guide {}
+.page-history-select .select {}
+.page-history-guide {}
+.page-list ul {}
+.grid li {}
+[data-hover-visible] .grid li.ellipsis a:hover .circle {}
+[data-hover-visible] .grid li.page-list-item a:hover {}
+html[data-os*="mac"] .grid li.page-list-item a .title,
+.grid li.page-list-item a .title[data-os*="mac"] {}
+.list li.page-list-item {}
+[data-hover-visible] .list li.page-list-item a:hover {}
+.grid-style-item .title.translate .translate-result {}
+.grid-style-item.image .title.translate {}
+.grid-style-item.image:hover .title.translate {}
+.list-style-item .title.translate .translate-result {}
+.list-style-item .description.translate .translate-result {}
+.page-list-item .description .page-link {}
+.page-list-item .description .link {}
+.page-list-item .description .formula {}
+.scroll-container {}
+.resizable-th {}
+.page-menu {}
+[data-hover-visible] .page-menu .tool-btn:hover {}
+[data-hover-visible] .page-menu .tool-btn.link-btn.disabled:hover {}
+.popup-menu {}
+[data-hover-visible] .project-settings-page .nav-tabs > li.active > a:hover,
+.project-settings-page .nav-tabs > li.active > a:active,
+.project-settings-page .nav-tabs > li.active > a:focus,
+[data-hover-visible] .project-settings-page .nav-tabs > li.open > a:hover,
+.project-settings-page .nav-tabs > li.open > a:active,
+.project-settings-page .nav-tabs > li.open > a:focus {}
+[data-hover-visible] .project-settings-page .nav-tabs > li > a:hover {}
+.project-settings-page .audit-form .downloads li {}
+.project-settings-page .extensions-form .extension-item + .extension-item {}
+.project-settings-page .extensions-form .extension-item .icon {}
+.project-settings-page .extensions-form .extension-item .title {}
+.project-settings-page .extensions-form .extension-item .description {}
+.project-settings-page .extensions-form .extension-item .checkbox {}
+.project-settings-page .extensions-form .extension-item .button {}
+.project-settings-page .extensions-form .extension-item .right {}
+.project-settings-page .ip-address-restriction-form .ip-address {}
+.project-settings-page
+  .ip-address-restriction-form
+  .allow-ip-address
+  .btn-delete {}
+.project-settings-page
+  .ip-address-restriction-form
+  .allow-ip-address:hover
+  .btn-delete {}
+.project-settings-page .mail-notification-form .checkbox + .checkbox {}
+.project-backup .description {}
+.project-backup .open .kamon-direction-down {}
+.project-backup .group-label {}
+.project-backup .group-items {}
+.project-billing-form p.with-icon {}
+.project-billing-form .use-existing-card {}
+.project-billing-form a.btn.disabled {}
+.project-members-form .invite-btn {}
+.project-members-form .invite-form input.form-control {}
+.project-members-form .invite-form .buttons {}
+.project-members-form .login-restriction .save-settings {}
+.project-members-form .login-restriction .email-address-patterns,
+.project-members-form .login-restriction .additional-input {}
+.project-members-form .additional-input.saml.fold {}
+.project-members-form .user-list-item {}
+html[data-os*="android"] .project-members-form .user-list-item .actions,
+.project-members-form .user-list-item[data-os*="android"] .actions {}
+html[data-os*="ios"] .project-members-form .user-list-item .actions,
+.project-members-form .user-list-item[data-os*="ios"] .actions {}
+.project-members-form .user-list,
+.project-members-form .known-user-list {}
+.project-members-form code.example {}
+.project-notifications-form .notification-service-dropdown {}
+.project-notifications-form .add-notification-btn {}
+.project-notifications-form .add-notification-form {}
+.project-notifications-form .list-item {}
+.project-page-data-form .page-data-item .checkbox {}
+.project-page-data-form .page-data-item a.bookmarklet {}
+.project-page-data-form .page-data-item a.btn.disabled {}
+.project-page-data-form .page-data-item .file {}
+.project-theme-form .category-list {}
+.project-theme-form .theme-list {}
+.service-accounts-form .add-service-account-btn {}
+.service-accounts-form .account-list-item {}
+html[data-os*="android"] .service-accounts-form .account-list-item .actions,
+.service-accounts-form .account-list-item[data-os*="android"] .actions {}
+html[data-os*="ios"] .service-accounts-form .account-list-item .actions,
+.service-accounts-form .account-list-item[data-os*="ios"] .actions {}
+.service-accounts-form .account-list {}
+.upload-settings-form .upload-radio-group:nth-child(n + 2) {}
+.upload-settings-form .radio-buttons {}
+.upload-settings-form .advanced-setting {}
+.project-metrics-page .page-select-tab {}
+.project-metrics-page .page-title {}
+.project-metrics-basic-page {}
+.project-metrics-members-page .download {}
+.project-metrics-members-page .member-list {}
+.project-metrics-members-page .member {}
+.project-metrics-members-page table.metrics {}
+.project-metrics-members-page .infinite-scroll-sentinel {}
+.project-metrics-navbar {}
+.project-metrics-toolbar {}
+.quick-launch {}
+.page-list-mode-menu {}
+[data-hover-visible] .page-list-mode-menu .tool-btn:hover {}
+.page-list-translation-menu {}
+[data-hover-visible] .page-list-translation-menu .tool-btn:hover {}
+.related-page-list {}
+.literate-database .translate .translate-result {}
+.scroll-bar-overlay {}
+.search-result-list .create-searched-page {}
+.search-result-list .search-result-count {}
+.search-result-list .search-result-list-header {}
+.search-result-list .search-options {}
+.search-result-list ul.list {}
+.project-search {}
+.search-not-found {}
+.selections .selection {}
+.selections .knob {}
+.shared-cursors {}
+.page-sort-menu {}
+[data-hover-visible] .page-sort-menu .tool-btn:hover {}
+.related-page-sort-menu {}
+.related-page-sort-menu .sort-tab.selected,
+[data-hover-visible] .related-page-sort-menu .sort-tab.selected:hover {}
+.status-bar {}
+.stream {}
+.table-block {}
+.text-input {}
+html[data-os*="android"] .text-input.ime-229,
+.text-input.ime-229[data-os*="android"] {}
+.touch-scrollable-container {}
+.trial-exceeded {}
+.update-assets-cache .fa {}
+.extensions-settings-form .extension-item + .extension-item {}
+.extensions-settings-form .extension-item .icon {}
+.extensions-settings-form .extension-item .title {}
+.extensions-settings-form .extension-item .description {}
+.extensions-settings-form .extension-item .checkbox {}
+.extensions-settings-form .extension-item .button {}
+.extensions-settings-form .extension-item .right {}
+.extensions-settings-form .extension-item.gyazo-oauth-upload .token-list {}
+.extensions-settings-form .extension-item.gyazo-oauth-upload .project-list {}
+.file-capacity-settings-form .file-capacity-list .file-capacity-list-item {}
+.file-capacity-settings-form .user-charges {}
+.user-settings-page .languages-settings-form h3,
+.user-settings-page .languages-settings-form h4 {}
+.personal-access-tokens-settings-form .account-list-item {}
+html[data-os*="android"]
+  .personal-access-tokens-settings-form
+  .account-list-item
+  .actions,
+.personal-access-tokens-settings-form
+  .account-list-item[data-os*="android"]
+  .actions {}
+html[data-os*="ios"]
+  .personal-access-tokens-settings-form
+  .account-list-item
+  .actions,
+.personal-access-tokens-settings-form
+  .account-list-item[data-os*="ios"]
+  .actions {}
+.personal-access-tokens-settings-form .account-list {}
+.personal-access-tokens-settings-form .issued-token {}
+.userscript-alert > form {}
+[data-hover-visible] .line a.link .image:hover {}
+[data-hover-visible] .line a.link:hover {}
+[data-hover-visible] .line a.page-link:hover {}
+[data-hover-visible] .line a.empty-page-link:hover {}
+html[data-os*="mac"] .line strong,
+.line strong[data-os*="mac"] {}
+html[data-os*="mac"] .line strong.level,
+.line strong.level[data-os*="mac"] {}
+.video-player {}
+.page-item-animation {}
